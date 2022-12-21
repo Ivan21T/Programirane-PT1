@@ -1,0 +1,7 @@
+E:\9e\PT1_ivan_tashev_9e\bin\Debug\PT1_ivan_tashev_9e.exe.config
+E:\9e\PT1_ivan_tashev_9e\bin\Debug\PT1_ivan_tashev_9e.exe
+E:\9e\PT1_ivan_tashev_9e\bin\Debug\PT1_ivan_tashev_9e.pdb
+E:\9e\PT1_ivan_tashev_9e\obj\Debug\PT1_ivan_tashev_9e.csproj.AssemblyReference.cache
+E:\9e\PT1_ivan_tashev_9e\obj\Debug\PT1_ivan_tashev_9e.csproj.CoreCompileInputs.cache
+E:\9e\PT1_ivan_tashev_9e\obj\Debug\PT1_ivan_tashev_9e.exe
+E:\9e\PT1_ivan_tashev_9e\obj\Debug\PT1_ivan_tashev_9e.pdb
